@@ -1,5 +1,4 @@
-# DCGAN with Anime Faces Dataset
-
+# Generating Anime Faces with DCGAN
 
 
 I used [Anime Faces Data from kaggle](https://www.kaggle.com/soumikrakshit/anime-faces).
